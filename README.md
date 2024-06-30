@@ -1,7 +1,5 @@
 # PRODIGY_FS_03
 
-Live Website Link : http://127.0.0.1:5500/Emrald-Ecommerce-Store/index.html
-
 🛒 Local Store E-Commerce Platform
 Welcome to the Local Store E-Commerce Platform repository! This project aims to create a feature-rich, user-friendly e-commerce platform designed to support local businesses.
 
